@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uzumymw06
+- 👋 Hi, I’m @vince
 - 👀 I’m interested in learning new languages
 - 🌱 I’m currently learning Html,javascript,css
 - 💞️ I’m looking to collaborate on ...
